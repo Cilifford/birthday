@@ -17,7 +17,7 @@ var config = {
         "Sincerest wishes from ENG Team"
     ],
     imgs: {
-        "Sincerest wishes from ENG Team": "./imgs/image.PNG",
+        "Sincerest wishes from ENG Team": "./imgs/image.png",
     },
     desc: {
         turn_on: "Start",
